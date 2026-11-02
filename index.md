@@ -72,12 +72,12 @@ Captura automática de:
 ## Apoiado e mantido por
 
 <div class="ms-container">
-  <img src="https://cdn-a1-br-sl.meusistema.com.br/imagens/logo_ms.png" alt="MeuSistema sistemas online personalizados" class="ms-logo">
+  <img src="https://grtrb7ozq669.objectstorage.sa-saopaulo-1.oci.customer-oci.com/p/TzrQVyyn0oGzTg4kc7Rw43ucOOHNZVJiAqJgtwV0Ioe0vBUL4w3UMA6OsoHU39eY/n/grtrb7ozq669/b/cdn-sl-sp-v1/o/assets_static%2F0x_zerohex_brc_allfd_0xAF110A.png" alt="ZERO HEX desenvolvimento de sistemas" class="ms-logo">
   <div class="ms-content">
     <p>
-      <strong>Meu Sistema - Sistemas online personalizados</strong><br>
-      Acesse: <a href="https://meusistema.com.br" target="_blank" title="Sistemas online personalizados">https://meusistema.com.br</a><br>
-      Fale conosco em: contato[at]meusistema.com.br
+      <strong>Zero Hex - Sistemas e Forense</strong><br>
+      Acesse: <a href="https://zerohex.com.br" target="_blank" title="Sistemas online personalizados">https://zerohex.com.br</a><br>
+      Fale conosco em: contato[at]zerohex.com.br
     </p>
   </div>
 </div>
